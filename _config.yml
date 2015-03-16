@@ -1,0 +1,12 @@
+# Site settings
+title: arvindsv.github.io
+email: arvind.sv@gmail.com
+description: "Just a site"
+baseurl: ""
+url: "https://arvindsv.github.io"
+twitter_username: arvindsv
+github_username:  arvindsv
+
+# Build settings
+markdown: kramdown
+permalink: pretty
